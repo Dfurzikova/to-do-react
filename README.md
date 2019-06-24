@@ -1,4 +1,10 @@
+Приложение построено с использованием взаимодействия React Context + React Hooks.
+Для интерфейса использован Material Design React.
+
 # to-do-react
+Посмотреть можно тут:
+
+https://dfurzikova.github.io/to-do-react/
 
 # Для установки потребуется:
 ```sh
